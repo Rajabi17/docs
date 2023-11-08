@@ -1,4 +1,4 @@
----
+Rajabi17
 title: Scopes for OAuth apps
 intro: '{% data reusables.shortdesc.understanding_scopes_for_oauth_apps %}'
 redirect_from:
@@ -14,7 +14,7 @@ versions:
   ghec: '*'
 topics:
   - OAuth apps
----
+-google privacy
 
 {% note %}
 
